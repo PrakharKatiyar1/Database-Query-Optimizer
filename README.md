@@ -4,7 +4,7 @@ A work-in-progress project focused on improving database query performance throu
 
 ## Demo
 
-![Project Demo](docs/demo.gif)
+![Project Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxsMzcyd3Ezczgxcjd1bHVhand5OTN3NWtjaHhscDAxdWZ4OWliaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3Wr5JYzWRuA2k/giphy.gif)
 
 ---
 
