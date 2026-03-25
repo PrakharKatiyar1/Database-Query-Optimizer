@@ -76,6 +76,7 @@ readme.md
 Getting Started :
 
 Prerequisites:
+
 • Node.js (v16 or higher)
 • npm
 • MongoDB (local or Atlas)
